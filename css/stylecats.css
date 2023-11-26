@@ -1,0 +1,20 @@
+header{
+    background-color: aquamarine;
+    color: blue;
+    text-align: left;
+    padding: 20px;
+}
+h2{
+    color: brown;
+}
+p{
+    color: blueviolet;
+}
+footer{
+    background-color: aquamarine;
+    color: blue;
+    text-align: center;
+}
+.section1{
+    color: chartreuse;
+}
