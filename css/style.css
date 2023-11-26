@@ -1,0 +1,28 @@
+header {
+    width: 960px;
+    margin: 0 auto;
+}
+.section{
+    color: red;
+    text-align: center;
+}
+p{
+    color: black;
+}
+.button{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.footer{
+    color:rgb(8, 50, 8);
+    background-color: rgb(203, 216, 169);
+    width: 960px;
+    margin: 0 auto;
+}
+#section2 {
+    color: red;
+    border: 2px solid gainsboro;
+    text-align: center;
+    width: 960px;
+    margin: 0 auto;
+}
